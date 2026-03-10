@@ -1,6 +1,6 @@
 # *__Pascal Nostalgia__* ✨
 
-A delightful collection of classic Pascal programs from my early programming days.
+A memorable collection of Pascal programs from my early programming days.
 
 
 ### Prerequisites
